@@ -16,3 +16,4 @@
 087 namaharumaki
 040 Sushi
 107 Momo
+000 Yakiniku
